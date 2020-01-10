@@ -1,5 +1,7 @@
 # blog
 
+View live: [preact-netlifycms.netlify.com](https://preact-netlifycms.netlify.com/)
+
 ## CLI Commands
 
 ``` bash
