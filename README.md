@@ -1,4 +1,4 @@
-# blog
+# Demo with Preact & Netlify CMS
 
 View live: [preact-netlifycms.netlify.com](https://preact-netlifycms.netlify.com/)
 
