@@ -1,9 +1,9 @@
 ---
-title: How to share a screenshot of your page
+title: How to share a screenshot of a page
 date: 2019-09-07T05:42:28.441Z
 subtitle: >-
-  If you or a friend have ever built an application which needs to take a
-  screenshot of itself, then this blog tells you how to do the same for web.
+  If you have ever built an application which needs to take a screenshot of
+  itself, then this blog tells you how to do the same for web.
 cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
 tags: 'technology, javascript'
 ---
